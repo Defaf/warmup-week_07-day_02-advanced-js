@@ -11,8 +11,8 @@
 ## Squares
 
 ```js
-var nums = [1, 2, 3, 4, 5];
-var numsSquared = [];
+let nums = [1, 2, 3, 4, 5];
+let numsSquared = [];
 
 // Use .map() to get the square of nums and store the value in numsSquared
 // numsSquared => [1, 4, 9, 16, 25]
@@ -21,8 +21,8 @@ var numsSquared = [];
 ## isDivisibleBy3
 
 ```js
-var nums = [1, 2, 3, 4, 5, 6, 7, 8, 9];
-var isDivisibleBy3 = [];
+let nums = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+let isDivisibleBy3 = [];
 
 // Use .filter() to find out the numbers that are divisible by 3 and store the value in isDivisibleBy3
 // isDivisibleBy3 => [3, 6, 9]
