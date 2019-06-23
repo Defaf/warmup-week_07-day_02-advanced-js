@@ -45,7 +45,7 @@ let dayAbbreviations = [];
 
 ```js
 
-const iAS = ['ahmed', 'sami', 'moath', 'sarah'];
+const iAS = ['ahmed', 'sami', 'moath', 'ghadeer'];
 let capitalizedIAs = [];
 
 // Capitalize all the strings in the IA's array and store them in the array capitalizedIA.
