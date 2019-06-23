@@ -1,4 +1,3 @@
-# warmup-week_07-day_01-advanced-js
 # JS forEach(), map(), filter(), and Arrow Functions
 
 
