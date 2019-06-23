@@ -36,7 +36,7 @@ const iAS = ['ahmed', 'sami', 'moath', 'ghadeer'];
 let capitalizedIAs = [];
 
 // Capitalize all the strings in the IA's array and store them in the array capitalizedIA.
-// capitalizedIAs => ["GHADEER", "ESRA", "MOATH", "SARAH"]
+// capitalizedIAs => ["AHMED", "SAMI", "MOATH", "GHADEER"]
 capitalizedIAs = iAS.map(name => name.toUpperCase());
 console.log(capitalizedIAs);
 
